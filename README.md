@@ -4,6 +4,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![classify](https://user-images.githubusercontent.com/52296623/150990686-97c8f10c-50d6-45bb-968d-c3cfc475c62a.png)
+![traffic-sign-recognition-project](https://user-images.githubusercontent.com/52296623/151008018-807ac005-e95b-4cd2-b1be-0d4a34a0508c.gif)
+
 
 This Repo is about implementing Real Time Traffic Signal Recognition System by training a CNN model with 95% accuracy and furthur implementing it using a GUI Interface.
 
