@@ -1,13 +1,6 @@
 # Traffic-Signal-Classification
 > Real-time Traffic Signal Classification Using CNN,Keras and in GUI Interface.
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![classify](https://user-images.githubusercontent.com/52296623/150990686-97c8f10c-50d6-45bb-968d-c3cfc475c62a.png)
