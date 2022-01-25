@@ -1,5 +1,5 @@
 # Traffic-Signal-Classification
-> Real-time Traffic Signal Classification Using CNN,Keras and in GUI Interface.
+> Real-time Traffic Signal Classification Using CNN,Keras with GUI Interface.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
